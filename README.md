@@ -18,13 +18,13 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 
 ## 📸 Screenshots
 
-<p align="center"><b>Interface Web para Desktop<b></p>
+<p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50463866/89324676-0bb67c00-d65e-11ea-9772-8dee0fade2a8.png" alt="Landing Page Proffy in Desktop" width="47%" />
   <img src="https://user-images.githubusercontent.com/50463866/89325003-90a19580-d65e-11ea-8df5-fe192cf44430.png" alt="Study Page in Desktop" width="47%" />
 </p>
 
-<p align="center"><b>Interface Web para Mobile<b></p>
+<p align="center"><b>Interface Web para Mobile</b></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50463866/89326399-9d26ed80-d660-11ea-923e-c41e7b409a5f.png" alt="Landing Page Proffy in Mobile" width="25%" />
   <img src="https://user-images.githubusercontent.com/50463866/89326212-533e0780-d660-11ea-9489-419f74dfc968.png" alt="Study Page in Mobile" width="25%" />
