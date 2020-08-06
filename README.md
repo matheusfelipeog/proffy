@@ -1,7 +1,7 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blueviolet?style=for-the-badge" alt="Nome e edição do evento" />
   <img src="https://img.shields.io/badge/web%3F-ok-blueviolet?style=for-the-badge" alt="Sistema web Ok" />
-  <img src="https://img.shields.io/badge/server%3F-No-blueviolet?style=for-the-badge" alt="Sevidor web No" />
+  <img src="https://img.shields.io/badge/server%3F-ok-blueviolet?style=for-the-badge" alt="Server Ok" />
   <img src="https://img.shields.io/badge/app mobile%3F-No-blueviolet?style=for-the-badge" alt="Aplicativo mobile No" />
   <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blueviolet&style=for-the-badge" alt="License" />
 </h2>
@@ -10,11 +10,23 @@
   <img src="https://user-images.githubusercontent.com/50463866/89321549-7f09bf00-d659-11ea-92e5-859bcd35e42c.png" alt="Logo da Proffy" />
 </h1>
 
+## 📌 Index
+
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Screenshots](#-screenshots)
+- [Techs](#-techs)
+- [Instalação e Start](#-instalação-e-start)
+   - [Clonagem](#clonagem)
+   - [Web](#web)
+   - [Server](#server)
+- [Contribuições](#-contribuições)
+- [License](#-license)
+
 ## ❔ Sobre o projeto
 
 Uma plataforma de estudos online que visa conectar alunos e professores de forma rápida e fácil.
 
-O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.com/episodios/omnistack/2/edicao/2)
+O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.com/episodios/omnistack/1/edicao/2)
 
 ## 📸 Screenshots
 
@@ -37,44 +49,54 @@ Proffy foi construído com as seguintes techs:
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Sqlite3](https://www.sqlite.org/index.html)
+- [Knex](http://knexjs.org/)
 
 ## ⚙ Instalação e Start
 
-Para instalar e startar a plataforma Proffy em seu ambiente, siga os passos abaixo:
+Certifique-se de que tenha o `Node.js` e um gerenciador de dependências em seu ambiente antes de seguir os passos abaixo.
 
-### Instalação
+Para instalar e startar a plataforma Proffy, use `npm` ou `yarn`:
 
-Clone o repositório:
-```
-git clone https://github.com/matheusfelipeog/proffy.git 
-```
+### Clonagem
 
-### Start
+Primeiro, clone o repositório para seu ambiente:
 
-Entre no repositório clonado e em seu diretório correspondente ao projeto web (somente interface web no momento):
-```
-cd ./proffy/web
-```
-
-Instale as dependências e starte 🚀
-
-##### NPM
 ```bash
-# Instala todas as dependências
-> npm install 
-
-# Starta o servidor web para a plataforma Proffy
-> npm start 
+> git clone https://github.com/matheusfelipeog/proffy.git 
 ```
 
-##### YARN
+Depois, entre no repositório clonado e no diretório correspondente ao que quer testar (web, server).
+Logo após, insira os seguintes comandos no seu terminal para cada diretório respectivamente:
+
+### Web
+
 ```bash
+> cd ./proffy/web
+
 # Instala todas as dependências
 > yarn install 
 
 # Starta o servidor web para a plataforma Proffy
 > yarn start 
 ```
+
+Será startado em `http://localhost:3000`
+
+### Server
+
+```bash
+> cd ./proffy/server
+
+# Instala todas as dependências
+> yarn install 
+
+# Starta o servidor web para a plataforma Proffy
+> yarn start 
+```
+
+Será startado em `http://localhost:5000`
 
 ## 🤝 Contribuições
 
