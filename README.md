@@ -73,6 +73,7 @@ Logo após, insira os seguintes comandos no seu terminal para cada diretório re
 ### Web
 
 ```bash
+# Entra no diretório "web"
 > cd ./proffy/web
 
 # Instala todas as dependências
@@ -87,6 +88,7 @@ Será startado em `http://localhost:3000`
 ### Server
 
 ```bash
+# Entra no diretório "server"
 > cd ./proffy/server
 
 # Instala todas as dependências
