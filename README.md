@@ -46,12 +46,15 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 
 Proffy foi construído com as seguintes techs:
 
-- [React](https://pt-br.reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [Sqlite3](https://www.sqlite.org/index.html)
-- [Knex](http://knexjs.org/)
+- Web
+  - [React](https://pt-br.reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+- Server
+  - [Node.js](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/)
+  - [Knex](http://knexjs.org/)
+- Banco de Dados
+  - [Sqlite3](https://www.sqlite.org/index.html)
 
 ## ⚙ Instalação e Start
 
