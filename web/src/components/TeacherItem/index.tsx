@@ -9,7 +9,7 @@ function TeacherItem() {
         <article className="teacher-item">
             <header>
                 <img 
-                    src="https://avatars2.githubusercontent.com/u/2254731?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4"
+                    src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Round&hairColor=Platinum&facialHairType=MoustacheMagnum&facialHairColor=Platinum&clotheType=BlazerShirt&eyeType=EyeRoll&eyebrowType=DefaultNatural&mouthType=Concerned&skinColor=Pale"
                     alt="Uma pessoa"
                 />
                 <div>
