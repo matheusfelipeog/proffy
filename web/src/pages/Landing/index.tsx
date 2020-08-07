@@ -6,7 +6,7 @@ import landingImg from '../../assets/images/landing.svg';
 
 import studyIcon from '../../assets/images/icons/study.svg';
 import giveClassIcon from '../../assets/images/icons/give-classes.svg';
-import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg';
+import blueHeartIcon from '../../assets/images/icons/blue-heart.svg';
 
 import './style.css';
 
@@ -39,7 +39,7 @@ function Landing() {
 
                 <span className="total-connections">
                     Total de 200 conexões já realizadas
-                    <img src={purpleHeartIcon} alt="Um coração na cor roxa" />
+                    <img src={blueHeartIcon} alt="Um coração na cor roxa" />
                 </span>
             </div>
         </div>
