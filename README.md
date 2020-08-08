@@ -1,13 +1,13 @@
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blueviolet?style=for-the-badge" alt="Nome e edição do evento" />
-  <img src="https://img.shields.io/badge/web%3F-ok-blueviolet?style=for-the-badge" alt="Sistema web Ok" />
-  <img src="https://img.shields.io/badge/server%3F-ok-blueviolet?style=for-the-badge" alt="Server Ok" />
-  <img src="https://img.shields.io/badge/app mobile%3F-No-blueviolet?style=for-the-badge" alt="Aplicativo mobile No" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blueviolet&style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blue?style=for-the-badge" alt="Nome e edição do evento" />
+  <img src="https://img.shields.io/badge/web%3F-ok-blue?style=for-the-badge" alt="Sistema web Ok" />
+  <img src="https://img.shields.io/badge/server%3F-ok-blue?style=for-the-badge" alt="Server Ok" />
+  <img src="https://img.shields.io/badge/app mobile%3F-No-blue?style=for-the-badge" alt="Aplicativo mobile No" />
+  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=blue&style=for-the-badge" alt="License" />
 </h2>
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/50463866/89321549-7f09bf00-d659-11ea-92e5-859bcd35e42c.png" alt="Logo da Proffy" />
+  <img src="https://user-images.githubusercontent.com/50463866/89676315-d8742700-d8c1-11ea-8166-586d824f85c3.png" alt="Logo da Proffy" />
 </h1>
 
 ## 📌 Index
@@ -32,26 +32,29 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 
 <p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50463866/89324676-0bb67c00-d65e-11ea-9772-8dee0fade2a8.png" alt="Landing Page Proffy in Desktop" width="47%" />
-  <img src="https://user-images.githubusercontent.com/50463866/89325003-90a19580-d65e-11ea-8df5-fe192cf44430.png" alt="Study Page in Desktop" width="47%" />
+  <img src="https://user-images.githubusercontent.com/50463866/89676301-d316dc80-d8c1-11ea-9383-1c635ecd8b8a.png" alt="Landing Page Proffy in Desktop" width="47%" />
+  <img src="https://user-images.githubusercontent.com/50463866/89676314-d742fa00-d8c1-11ea-815f-cbcb370a1907.png" alt="Study Page in Desktop" width="47%" />
 </p>
 
 <p align="center"><b>Interface Web para Mobile</b></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50463866/89326399-9d26ed80-d660-11ea-923e-c41e7b409a5f.png" alt="Landing Page Proffy in Mobile" width="25%" />
-  <img src="https://user-images.githubusercontent.com/50463866/89326212-533e0780-d660-11ea-9489-419f74dfc968.png" alt="Study Page in Mobile" width="25%" />
+  <img src="https://user-images.githubusercontent.com/50463866/89676295-d14d1900-d8c1-11ea-8ec3-11f3d2378735.png" alt="Landing Page Proffy in Mobile" width="25%" />
+  <img src="https://user-images.githubusercontent.com/50463866/89676306-d5793680-d8c1-11ea-9122-e6967ecd8d76.png" alt="Study Page in Mobile" width="25%" />
 </p>
 
 ## 🛠 Techs
 
 Proffy foi construído com as seguintes techs:
 
-- [React](https://pt-br.reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [Sqlite3](https://www.sqlite.org/index.html)
-- [Knex](http://knexjs.org/)
+- Web
+  - [React](https://pt-br.reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+- Server
+  - [Node.js](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/)
+  - [Knex](http://knexjs.org/)
+- Banco de Dados
+  - [Sqlite3](https://www.sqlite.org/index.html)
 
 ## ⚙ Instalação e Start
 
